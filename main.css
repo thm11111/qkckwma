@@ -1,0 +1,46 @@
+html body *{
+    color: #e3256b;
+    letter-spacing: -1px !important;
+    box-shadow:none !important;
+    text-shadow:none !important;
+}
+
+html body{
+    background-color: #335e5e;
+}
+
+html body #base-background{
+    display: none;
+}
+
+html body #content{
+    color: #e3256b;
+    background: #0cb3b3;
+    outline:10px solid #00ffff;
+}
+
+html body #community-bar {
+    background: #084343;
+}
+
+html body #community-bar *{
+    color: #e3256b;
+}
+
+html body #base-header .game-bar .inner-wrapper {
+    background: #0cb3b3;
+}
+html body #base-header .game-bar .inner-wrapper *{
+    color: #e3256b;
+}
+
+html body #comcenter-friends *{
+    color: #e3256b;
+}
+
+html body #comcenter-friends {
+    /*color: #e3256b;*/
+    background: #0cb3b3;
+    outline:2px solid #111111;
+    border:none;
+}
